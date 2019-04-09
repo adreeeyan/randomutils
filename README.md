@@ -1,2 +1,2 @@
-# bookmarklets
-Just some random bookmarklets that I use.
+# randomutils
+Just some random browser scripts that I use.
